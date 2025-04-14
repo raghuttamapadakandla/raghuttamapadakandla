@@ -24,7 +24,7 @@
 ### Security Tools
 **📦 Packet Inspector**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark)  
+![DeepSeek](https://img.shields.io/badge/DeepSeek%20AI-brightgreen?logo=deepseek)  
 Custom network traffic analyzer using Python and DeepSeek
 
 **🛡️ URL Phishing Detector**  

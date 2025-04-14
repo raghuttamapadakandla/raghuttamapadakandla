@@ -44,9 +44,9 @@ Basic blockchain implementation with proof-of-work system
 Web platform connecting blood donors with hospitals
 
 ## 📈 Activity Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=raghuttamapadakandla&theme=dark)]
+![GitHub Streak](https://streak-stats.demolab.com/?user=raghuttamapadakandla&theme=dark)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghuttamapadakandla&layout=compact&theme=dark&hide=html,css)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghuttamapadakandla&layout=compact&theme=dark&hide=html,css)
 
 ## 📚 Learning Resources
 - Currently studying: "Bug Bounty Bootcamp" by Vickie Li

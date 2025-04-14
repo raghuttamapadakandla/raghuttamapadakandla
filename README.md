@@ -6,7 +6,6 @@
 - 🔭 Currently working on: Security automation scripts and network analysis tools
 - 🌱 Learning: Network security fundamentals and threat detection patterns
 - 💻 Core skills: Python, Splunk, Wireshark, Nmap
-- 📫 How to reach me: [Your Email] or [Social Media]
 - ⚡ Fun fact: I can sniff network traffic but I promise I won't peek at your packets! 😄
 
 ## 🛠️ Tech Stack
@@ -26,12 +25,12 @@
 **📦 Packet Inspector**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark)  
-Custom network traffic analyzer using Python and Scapy
+Custom network traffic analyzer using Python and DeepSeek
 
 **🛡️ URL Phishing Detector**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat)  
-Python-based solution to identify malicious URLs using heuristic analysis
+Python-based solution to identify malicious URLs
 
 ### Development Projects
 **⛓️ Python Blockchain**  
@@ -42,21 +41,17 @@ Basic blockchain implementation with proof-of-work system
 **🩸 Blood Map Project**  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)  
-Web platform connecting blood donors with hospitals ([Live Demo](https://your-url-here))
+Web platform connecting blood donors with hospitals
 
 ## 📈 Activity Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=raghuttamapadakandla&theme=dark)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide=html,css)](https://github.com/yourusername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghuttamapadakandla&layout=compact&theme=dark&hide=html,css)](https://github.com/raghuttamapadakandla)
 
 ## 📚 Learning Resources
-- Currently studying: "Violent Python" by TJ O'Connor
+- Currently studying: "Bug Bounty Bootcamp" by Vickie Li
 - Practicing on: TryHackMe rooms
 - Following: John Hammond's security tutorials
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghuttamapadakandla/)

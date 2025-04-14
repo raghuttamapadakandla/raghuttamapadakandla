@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72D&width=435&lines=Network+Security;Threat+Detection;Security+Automation)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72D&width=435&lines=Network+Security;Threat+Detection;Security+Automation)
 
 ## 🛡️ About Me
 - 🔭 Currently working on: Security automation scripts and network analysis tools

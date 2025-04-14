@@ -1,6 +1,6 @@
 # 🔒 Cybersecurity Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72D&width=435&lines=Network+Security;Threat+Detection;Security+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72D&width=435&lines=Network+Security;Threat+Detection;Security+Automation)]
 
 ## 🛡️ About Me
 - 🔭 Currently working on: Security automation scripts and network analysis tools
@@ -44,9 +44,9 @@ Basic blockchain implementation with proof-of-work system
 Web platform connecting blood donors with hospitals
 
 ## 📈 Activity Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=raghuttamapadakandla&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=raghuttamapadakandla&theme=dark)]
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghuttamapadakandla&layout=compact&theme=dark&hide=html,css)](https://github.com/raghuttamapadakandla)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghuttamapadakandla&layout=compact&theme=dark&hide=html,css)]
 
 ## 📚 Learning Resources
 - Currently studying: "Bug Bounty Bootcamp" by Vickie Li

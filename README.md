@@ -40,7 +40,7 @@ Basic blockchain implementation with proof-of-work system
 
 **🩸 Blood Map Project**  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)  
 Web platform connecting blood donors with hospitals
 
 ## 📈 Activity Stats
